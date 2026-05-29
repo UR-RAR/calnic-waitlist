@@ -1,0 +1,6 @@
+{
+  "name": "Calnics",
+  "description": "Premium 3D calisthenics waitlist and interactive high-fidelity workout prototype builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
